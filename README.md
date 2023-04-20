@@ -29,16 +29,40 @@
 [![Solidity](https://img.shields.io/badge/-SOLIDITY-white?style=flat-square&logo=solidity&logoColor=black&labelPadding=10&logoWidth=30&logoHeight=30&logoOffset=-1&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 
 
+<h3 align="left"> Frontend Technologies:</h3>
 
-
-
-<h3 align="left"> Frontend Frameworks:</h3>
-
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/pratokko/)](https://github.com/pratokko/)[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
+  </a>&nbsp
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
+  </a>&nbsp
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript">
+  </a>&nbsp
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-NODE.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
+  </a>&nbsp
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=000000&labelColor=61DAFB" alt="React">
+  </a>&nbsp
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="Sass">
+  </a>&nbsp
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff" alt="Bootstrap">
+  </a>&nbsp
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=ffffff" alt="Next.js">
+  </a>&nbsp
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/-REDUX-764ABC?style=flat-square&logo=redux&logoColor=ffffff" alt="Redux">
+  </a>&nbsp
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://img.shields.io/badge/-TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS">
+  </a>&nbsp
+</p>
 
 
 
