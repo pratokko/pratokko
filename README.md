@@ -27,7 +27,11 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+[![Solidity](https://img.shields.io/badge/-SOLIDITY-white?style=flat-square&logo=solidity&logoColor=black&labelPadding=10&logoWidth=30&logoHeight=30&logoOffset=-1&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+
+
+
+
 
 <h3 align="left">Frameworks and Tools:</h3>
 
