@@ -35,9 +35,6 @@
 [![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![Solidity](https://img.shields.io/badge/-SOLIDITY-white?style=flat-square&logo=solidity&logoColor=black&labelPadding=10&logoWidth=30&logoHeight=30&logoOffset=-1&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 
-<hr />
-
-
 <h3 align="left"> Frontend Technologies:</h3>
 
 <p align="left">
@@ -71,7 +68,6 @@
   </a>&nbsp
 </p>
 
-<hr />
 
 <h3 align="left">Backend Technologies:</h3>
 <p align="left">
