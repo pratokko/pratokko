@@ -22,7 +22,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eatokko/)](https://www.twitter.com/eatokko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratokko1@gmail.com)](mailto:pratokko1@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Programming Languages:</h3>
 
 [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-gray?style=flat-square&logo=javascript&labelPadding=5&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/pratokko/)](https://github.com/pratokko/)
@@ -32,12 +32,13 @@
 
 
 
-<h3 align="left">Frameworks and Tools:</h3>
+<h3 align="left"> Frontend Frameworks:</h3>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/pratokko/)](https://github.com/pratokko/)[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+
 
 
 
