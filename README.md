@@ -13,8 +13,13 @@
 
 - 💬 Ask me about **Ethereum**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Blockchain Technology:</h3>
 
+[![ETHEREUM](https://img.shields.io/badge/ETHEREUM-3C3C3D?style=flat-square&logo=ethereum&logoColor=FFFFFF&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eatokko/)](https://www.linkedin.com/in/eatokko/)
@@ -22,11 +27,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eatokko/)](https://www.twitter.com/eatokko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratokko1@gmail.com)](mailto:pratokko1@gmail.com)
 
+
+<hr />
 <h3 align="left"> Programming Languages:</h3>
 
 [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-gray?style=flat-square&logo=javascript&labelPadding=5&link=https://github.com/pratokko/)](https://github.com/pratokko/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+[![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![Solidity](https://img.shields.io/badge/-SOLIDITY-white?style=flat-square&logo=solidity&logoColor=black&labelPadding=10&logoWidth=30&logoHeight=30&logoOffset=-1&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+
+<hr />
 
 
 <h3 align="left"> Frontend Technologies:</h3>
@@ -41,9 +50,7 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript">
   </a>&nbsp
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/-NODE.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
-  </a>&nbsp
+ 
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=000000&labelColor=61DAFB" alt="React">
   </a>&nbsp
@@ -64,7 +71,25 @@
   </a>&nbsp
 </p>
 
+<hr />
 
+<h3 align="left">Backend Technologies:</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-NODE.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
+  </a>&nbsp
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/EXPRESS.js-000000?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js">
+  </a>&nbsp
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase">
+  </a>&nbsp
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-PRISMA-1B222D?style=flat-square&logo=prisma&logoColor=ffffff" alt="Prisma">
+  </a>&nbsp
+</p>
+
+<hr />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratokko&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="pratokko's Github Stats">
 
