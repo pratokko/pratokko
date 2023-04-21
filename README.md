@@ -38,12 +38,10 @@
 <h3 align="left"> Frontend Technologies:</h3>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
-  </a>&nbsp
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
-  </a>&nbsp
+ <a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript">
+</a>&nbsp;
+
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E" alt="JavaScript">
   </a>&nbsp
@@ -74,15 +72,17 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/-NODE.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
   </a>&nbsp
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/EXPRESS.js-000000?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js">
-  </a>&nbsp
+ <a href="https://expressjs.com" target="_blank">
+  <img src="https://img.shields.io/badge/EXPRESS.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+</a>&nbsp
+
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase">
   </a>&nbsp
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-PRISMA-1B222D?style=flat-square&logo=prisma&logoColor=ffffff" alt="Prisma">
-  </a>&nbsp
+ <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-PRISMA-6B46C1?style=flat-square&logo=prisma&logoColor=ffffff" alt="Prisma">
+</a>&nbsp
+
 </p>
 
 <hr />
