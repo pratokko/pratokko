@@ -25,7 +25,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eatokko/)](https://www.linkedin.com/in/eatokko/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=254728459979&text=Olá!)](https://api.whatsapp.com/send?phone=254728459979&text=Olá!)
 [![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eatokko/)](https://www.twitter.com/eatokko/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratokko1@gmail.com)](mailto:pratokko1@gmail.com)
 
