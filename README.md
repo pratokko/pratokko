@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eatokko/)](https://www.linkedin.com/in/eatokko/)
-[![Linkedin Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eatokko/)](https://www.twitter.com/eatokko/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratokko1@gmail.com)](mailto:pratokko1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eatokko/)](https://www.linkedin.com/in/eatokko/)
+[![Linkedin Badge](https://img.shields.io/badge/-TWITTER-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eatokko/)](https://www.twitter.com/eatokko/)
+[![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratokko1@gmail.com)](mailto:pratokko1@gmail.com)
 
 
 <hr />
@@ -71,10 +71,10 @@
 <h3 align="left">Backend Technologies:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/-NODE.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
+    <img src="https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js">
   </a>&nbsp
  <a href="https://expressjs.com" target="_blank">
-  <img src="https://img.shields.io/badge/EXPRESS.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js">
 </a>&nbsp
 
   <a href="https://firebase.google.com/" target="_blank">
