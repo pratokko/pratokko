@@ -83,6 +83,9 @@
  <a href="https://www.prisma.io/" target="_blank">
     <img src="https://img.shields.io/badge/-PRISMA-6B46C1?style=flat-square&logo=prisma&logoColor=ffffff" alt="Prisma">
 </a>&nbsp
+ <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-NEXT-000000?style=flat-square&logo=next.js&logoColor=ffffff" alt="Next">
+</a>&nbsp
 
 </p>
 
