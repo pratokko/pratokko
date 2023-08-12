@@ -11,9 +11,9 @@
 
 - 🔭 I’m a Software Engineer  currently working as a FullStack Blockchain Developer **Smart Contracts**
 
-- 🌱 I’m currently working on **Solidity Ethereum**
+- 🌱 I’m currently working on **Solidity**
 
-- 💬 Ask me about **Ethereum**
+- 💬 Ask me about **Solidity, Javascript, React Native**
 
 <h3 align="left">Blockchain Technology:</h3>
 
