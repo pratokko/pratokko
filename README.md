@@ -11,7 +11,7 @@
 
 - 🔭 I’m a Software Engineer  currently working as a FullStack Blockchain Developer **Smart Contracts**
 
-- 🌱 I’m currently working on **Solidity**
+- 🌱 I’m currently working on **Web 2** and **Web 3**
 
 - 💬 Ask me about **Solidity, Javascript, React Native**
 
@@ -35,6 +35,12 @@
 [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-gray?style=flat-square&logo=javascript&labelPadding=5&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/pratokko/)](https://github.com/pratokko/)
 [![Solidity](https://img.shields.io/badge/-SOLIDITY-white?style=flat-square&logo=solidity&logoColor=black&labelPadding=10&logoWidth=30&logoHeight=30&logoOffset=-1&link=https://github.com/pratokko/)](https://github.com/pratokko/)
+
+<hr />
+<h3 align="left"> Mobile Apps:</h3>
+
+[![ReactNative](https://img.shields.io/badge/-REACT_NATIVE-blue?style=flat-square&logo=react)](https://github.com/pratokko/)
+
 
 <h3 align="left"> Frontend Technologies:</h3>
 
