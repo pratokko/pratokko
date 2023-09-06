@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratokko&label=Profile%20views&color=0e75b6&style=flat" alt="pratokko" /> </p>
 
-- 🔭 I’m a Software Engineer currently working as a FullStack Blockchain Developer **Smart Contracts** and web full stack developer
+- 🔭 I’m a Software Engineer currently working as a FullStack Blockchain Developer **Security Researcher** and web full stack developer
 
 - 🌱 I’m currently working on **Web 2** and **Web 3**
 
