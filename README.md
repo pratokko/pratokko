@@ -26,8 +26,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eatokko/)](https://www.linkedin.com/in/eatokko/)
 [![Twitter Badge](https://img.shields.io/badge/-TWITTER-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/eatokko/)](https://www.twitter.com/eatokko/)
-[![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratokko1@gmail.com)](mailto:pratokko1@gmail.com)
-
 
 <hr />
 <h3 align="left"> Programming Languages:</h3>
