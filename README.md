@@ -95,5 +95,12 @@
 
 <hr />
 
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://mysql.com" target="_blank">
+     <img src="https://img.shields.io/badge/-MySQL-339933?style=flat-square&logo=mysql&logoColor=000000" alt="MySQL">
+  </a>&nbsp
+</p>
+
 
 
