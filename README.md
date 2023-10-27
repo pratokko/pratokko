@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working as a security researcher web 3
 
-- 💬 Ask me about **Solidity, Javascript, React Native**
+- 💬 Ask me about **Solidity, Javascript, Web 3 security**
 
 <h3 align="left">Blockchain Technology:</h3>
 
