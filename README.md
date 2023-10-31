@@ -80,6 +80,10 @@
  <a href="https://expressjs.com" target="_blank">
   <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js">
 </a>&nbsp
+ 
+ <a href="https://nestjs.com" target="_blank">
+  <img src="https://img.shields.io/badge/NEST.JS-404D59?style=flat-square&logo=nest&logoColor=171A1C" alt="Nest.js">
+</a>&nbsp
 
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase">
