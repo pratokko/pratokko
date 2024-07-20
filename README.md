@@ -1,7 +1,7 @@
 <img src="https://1734811051.rsc.cdn77.org/data/images/full/381587/how-to-get-started-with-smart-contract-development.png" alt="MasterHead" width="100%" height="400">
 
 <h1 align="center">Hello 👋, I'm Atoko</h1>
-<h3 align="center">FullStack Software Developer & Security Researcher WEB 3 </h3>
+<h3 align="center">Security Researcher WEB 3 </h3>
 
 <img align="right" alt="Coder GIF" height="300" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratokko&label=Profile%20views&color=0e75b6&style=flat" alt="pratokko" /> </p>
 
-- 🔭 I’m a Software Engineer currently working as a FullStack Blockchain Developer **Security Researcher** 
+- 🔭 I’m a Software Engineer currently working as a Blockchain Developer **Security Researcher** 
 
 - 🌱 I’m currently working as a security researcher web 3
 
